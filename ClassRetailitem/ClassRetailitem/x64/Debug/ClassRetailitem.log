@@ -1,0 +1,5 @@
+﻿  ClassRetailitem.cpp
+C:\Users\dmitr\source\repos\ClassRetailitem\ClassRetailitem\ClassRetailitem.cpp(40,15): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\dmitr\source\repos\ClassRetailitem\ClassRetailitem\ClassRetailitem.cpp(46,15): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\dmitr\source\repos\ClassRetailitem\ClassRetailitem\ClassRetailitem.cpp(52,15): warning C4305: аргумент: усечение из "double" в "float"
+  ClassRetailitem.vcxproj -> C:\Users\dmitr\source\repos\ClassRetailitem\x64\Debug\ClassRetailitem.exe
