@@ -1,0 +1,6 @@
+﻿  polimorthysmAverage.cpp
+C:\Users\dmitr\source\repos\polimorthysmAverage\polimorthysmAverage\polimorthysmAverage.cpp(26,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmitr\source\repos\polimorthysmAverage\polimorthysmAverage\polimorthysmAverage.cpp(26,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmitr\source\repos\polimorthysmAverage\polimorthysmAverage\polimorthysmAverage.cpp(26,40): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\dmitr\source\repos\polimorthysmAverage\polimorthysmAverage\polimorthysmAverage.cpp(26,45): warning C4305: инициализация: усечение из "double" в "float"
+  polimorthysmAverage.vcxproj -> C:\Users\dmitr\source\repos\polimorthysmAverage\x64\Debug\polimorthysmAverage.exe
